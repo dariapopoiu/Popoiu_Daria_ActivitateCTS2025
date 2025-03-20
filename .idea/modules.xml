@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FactoryExamples/FactoryExamples.iml" filepath="$PROJECT_DIR$/FactoryExamples/FactoryExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Popoiu_Daria_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/Popoiu_Daria_ActivitateCTS2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonExamples/SingletonExamples.iml" filepath="$PROJECT_DIR$/SingletonExamples/SingletonExamples.iml" />
     </modules>
   </component>
 </project>
