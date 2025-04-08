@@ -6,8 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar6/A5-AdapterCls/A5-AdapterCls.iml" filepath="$PROJECT_DIR$/Seminar6/A5-AdapterCls/A5-AdapterCls.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/B4prototype/B4prototype.iml" filepath="$PROJECT_DIR$/Seminar4/B4prototype/B4prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/B5/B5-AdapterObj.iml" filepath="$PROJECT_DIR$/Seminar6/B5/B5-AdapterObj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderExamples/BuilderExamples.iml" filepath="$PROJECT_DIR$/BuilderExamples/BuilderExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/BuilderPrototype/BuilderPrototype.iml" filepath="$PROJECT_DIR$/Exercises/BuilderPrototype/BuilderPrototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/Exercises/Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryExamples/FactoryExamples.iml" filepath="$PROJECT_DIR$/FactoryExamples/FactoryExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Popoiu_Daria_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/Popoiu_Daria_ActivitateCTS2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrototypeExamples/PrototypeExamples.iml" filepath="$PROJECT_DIR$/PrototypeExamples/PrototypeExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
@@ -15,8 +19,19 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6/Seminar6.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonExamples/SingletonExamples.iml" filepath="$PROJECT_DIR$/SingletonExamples/SingletonExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/SingletonFactory/SingletonFactory.iml" filepath="$PROJECT_DIR$/Exercises/SingletonFactory/SingletonFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Spital-a1/Spital-a1.iml" filepath="$PROJECT_DIR$/Seminar5/Spital-a1/Spital-a1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Spital-a3/Spital-a3.iml" filepath="$PROJECT_DIR$/Seminar5/Spital-a3/Spital-a3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryExamples/b1-simple/b1-simple.iml" filepath="$PROJECT_DIR$/FactoryExamples/b1-simple/b1-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderExamples/b2-v1/b2-v1.iml" filepath="$PROJECT_DIR$/BuilderExamples/b2-v1/b2-v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderExamples/b2-v2/b2-v2.iml" filepath="$PROJECT_DIR$/BuilderExamples/b2-v2/b2-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryExamples/b3-method/b3-method.iml" filepath="$PROJECT_DIR$/FactoryExamples/b3-method/b3-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrototypeExamples/b4/b4.iml" filepath="$PROJECT_DIR$/PrototypeExamples/b4/b4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderExamples/c-v1/c-v1.iml" filepath="$PROJECT_DIR$/BuilderExamples/c-v1/c-v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderExamples/c-v2/c-v2.iml" filepath="$PROJECT_DIR$/BuilderExamples/c-v2/c-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonExamples/ex1/ex1.iml" filepath="$PROJECT_DIR$/SingletonExamples/ex1/ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryExamples/exRestaurant/exRestaurant.iml" filepath="$PROJECT_DIR$/FactoryExamples/exRestaurant/exRestaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonExamples/exStudent/exStudent.iml" filepath="$PROJECT_DIR$/SingletonExamples/exStudent/exStudent.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Spital-a1/v1/v1.iml" filepath="$PROJECT_DIR$/Seminar5/Spital-a1/v1/v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Spital-a1/v2/v2.iml" filepath="$PROJECT_DIR$/Seminar5/Spital-a1/v2/v2.iml" />
     </modules>
