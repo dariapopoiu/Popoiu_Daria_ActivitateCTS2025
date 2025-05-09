@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Seminar8/A10Flyweight/A10Flyweight.iml" filepath="$PROJECT_DIR$/Seminar8/A10Flyweight/A10Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/A5-AdapterObj/A5.iml" filepath="$PROJECT_DIR$/Seminar6/A5-AdapterObj/A5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/A5-AdapterCls/A5-AdapterCls.iml" filepath="$PROJECT_DIR$/Seminar6/A5-AdapterCls/A5-AdapterCls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8/A8Composite/A8Composite.iml" filepath="$PROJECT_DIR$/Seminar8/A8Composite/A8Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structurale/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Structurale/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/B4prototype/B4prototype.iml" filepath="$PROJECT_DIR$/Seminar4/B4prototype/B4prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/B5/B5-AdapterObj.iml" filepath="$PROJECT_DIR$/Seminar6/B5/B5-AdapterObj.iml" />
@@ -31,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6/Seminar6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar7/Seminar7.iml" filepath="$PROJECT_DIR$/Seminar7/Seminar7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8/Seminar8.iml" filepath="$PROJECT_DIR$/Seminar8/Seminar8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creationale/SingletonExamples/SingletonExamples.iml" filepath="$PROJECT_DIR$/Creationale/SingletonExamples/SingletonExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/SingletonFactory/SingletonFactory.iml" filepath="$PROJECT_DIR$/Exercises/SingletonFactory/SingletonFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/SingletonFactory2/SingletonFactory2.iml" filepath="$PROJECT_DIR$/Exercises/SingletonFactory2/SingletonFactory2.iml" />
