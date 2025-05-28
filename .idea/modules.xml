@@ -2,31 +2,58 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/aaaa/1/1.iml" filepath="$PROJECT_DIR$/aaaa/1/1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/A10Flyweight/A10Flyweight.iml" filepath="$PROJECT_DIR$/Seminar8/A10Flyweight/A10Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/A5-AdapterObj/A5.iml" filepath="$PROJECT_DIR$/Seminar6/A5-AdapterObj/A5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/A5-AdapterCls/A5-AdapterCls.iml" filepath="$PROJECT_DIR$/Seminar6/A5-AdapterCls/A5-AdapterCls.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/A8Composite/A8Composite.iml" filepath="$PROJECT_DIR$/Seminar8/A8Composite/A8Composite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Structurale/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Structurale/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Design-Structurale/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/B4prototype/B4prototype.iml" filepath="$PROJECT_DIR$/Seminar4/B4prototype/B4prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/B5/B5-AdapterObj.iml" filepath="$PROJECT_DIR$/Seminar6/B5/B5-AdapterObj.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Creationale/BuilderExamples/BuilderExamples.iml" filepath="$PROJECT_DIR$/Creationale/BuilderExamples/BuilderExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Creationale/BuilderExamples/BuilderExamples.iml" filepath="$PROJECT_DIR$/Design-Creationale/BuilderExamples/BuilderExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/BuilderPrototype/BuilderPrototype.iml" filepath="$PROJECT_DIR$/Exercises/BuilderPrototype/BuilderPrototype.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Comportamentale/ChainOfResponsibility/ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/Comportamentale/ChainOfResponsibility/ChainOfResponsibility.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Comportamentale/Command/Command.iml" filepath="$PROJECT_DIR$/Comportamentale/Command/Command.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Comportamentale/Comportamentale.iml" filepath="$PROJECT_DIR$/Comportamentale/Comportamentale.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Structurale/Composite/Composite.iml" filepath="$PROJECT_DIR$/Structurale/Composite/Composite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Creationale/Creationale.iml" filepath="$PROJECT_DIR$/Creationale/Creationale.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Structurale/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Structurale/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Comportamentale/ChainOfResponsibility/ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/Design-Comportamentale/ChainOfResponsibility/ChainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Comportamentale/Command/Command.iml" filepath="$PROJECT_DIR$/Design-Comportamentale/Command/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Composite/Composite.iml" filepath="$PROJECT_DIR$/Design-Structurale/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Facade/Curs/Curs.iml" filepath="$PROJECT_DIR$/Design-Structurale/Facade/Curs/Curs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Proxy/CursAg/CursAg.iml" filepath="$PROJECT_DIR$/Design-Structurale/Proxy/CursAg/CursAg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Adapter/CursClase/CursClase.iml" filepath="$PROJECT_DIR$/Design-Structurale/Adapter/CursClase/CursClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Comportamentale/Observer/CursClienti/CursClienti.iml" filepath="$PROJECT_DIR$/Design-Comportamentale/Observer/CursClienti/CursClienti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Decorator/CursDecor/CursDecor.iml" filepath="$PROJECT_DIR$/Design-Structurale/Decorator/CursDecor/CursDecor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Decorator/CursFactura/CursFactura.iml" filepath="$PROJECT_DIR$/Design-Structurale/Decorator/CursFactura/CursFactura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Flyweight/CursHot/CursHot.iml" filepath="$PROJECT_DIR$/Design-Structurale/Flyweight/CursHot/CursHot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Composite/CursMeniu/CursMeniu.iml" filepath="$PROJECT_DIR$/Design-Structurale/Composite/CursMeniu/CursMeniu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Comportamentale/ChainOfResponsibility/CursNotif/CursNotif.iml" filepath="$PROJECT_DIR$/Design-Comportamentale/ChainOfResponsibility/CursNotif/CursNotif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Adapter/CursObiecte/CursObiecte.iml" filepath="$PROJECT_DIR$/Design-Structurale/Adapter/CursObiecte/CursObiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Flyweight/CursOpt/CursOpt.iml" filepath="$PROJECT_DIR$/Design-Structurale/Flyweight/CursOpt/CursOpt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Comportamentale/Template/CursPachete/CursPachete.iml" filepath="$PROJECT_DIR$/Design-Comportamentale/Template/CursPachete/CursPachete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Comportamentale/Strategy/CursPlata/CursPlata.iml" filepath="$PROJECT_DIR$/Design-Comportamentale/Strategy/CursPlata/CursPlata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Design-Structurale/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Comportamentale/Design-Comportamentale.iml" filepath="$PROJECT_DIR$/Design-Comportamentale/Design-Comportamentale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Creationale/Design-Creationale.iml" filepath="$PROJECT_DIR$/Design-Creationale/Design-Creationale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Design-Structurale.iml" filepath="$PROJECT_DIR$/Design-Structurale/Design-Structurale.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/Exercises/Exercises.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Structurale/Facade/Facade.iml" filepath="$PROJECT_DIR$/Structurale/Facade/Facade.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Creationale/FactoryExamples/FactoryExamples.iml" filepath="$PROJECT_DIR$/Creationale/FactoryExamples/FactoryExamples.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Structurale/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Structurale/Flyweight/Flyweight.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Comportamentale/Memento/Memento.iml" filepath="$PROJECT_DIR$/Comportamentale/Memento/Memento.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Comportamentale/Observer/Observer.iml" filepath="$PROJECT_DIR$/Comportamentale/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Comportamentale/Strategy/F10/F10.iml" filepath="$PROJECT_DIR$/Design-Comportamentale/Strategy/F10/F10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Comportamentale/Observer/F11/F11.iml" filepath="$PROJECT_DIR$/Design-Comportamentale/Observer/F11/F11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10/F12-Chain/F12-Chain.iml" filepath="$PROJECT_DIR$/Seminar10/F12-Chain/F12-Chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10/F12-Template/F12-Template.iml" filepath="$PROJECT_DIR$/Seminar10/F12-Template/F12-Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Adapter/F4-clase/F4-clase.iml" filepath="$PROJECT_DIR$/Design-Structurale/Adapter/F4-clase/F4-clase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Adapter/F4-obj/F4-obj.iml" filepath="$PROJECT_DIR$/Design-Structurale/Adapter/F4-obj/F4-obj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Facade/F5/F5.iml" filepath="$PROJECT_DIR$/Design-Structurale/Facade/F5/F5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Composite/F6/F6.iml" filepath="$PROJECT_DIR$/Design-Structurale/Composite/F6/F6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Decorator/F7/F7.iml" filepath="$PROJECT_DIR$/Design-Structurale/Decorator/F7/F7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Proxy/F8/F8.iml" filepath="$PROJECT_DIR$/Design-Structurale/Proxy/F8/F8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Flyweight/F9/F9.iml" filepath="$PROJECT_DIR$/Design-Structurale/Flyweight/F9/F9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Facade/Facade.iml" filepath="$PROJECT_DIR$/Design-Structurale/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Creationale/FactoryExamples/FactoryExamples.iml" filepath="$PROJECT_DIR$/Design-Creationale/FactoryExamples/FactoryExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Design-Structurale/Flyweight/Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Comportamentale/Memento/Memento.iml" filepath="$PROJECT_DIR$/Design-Comportamentale/Memento/Memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Comportamentale/Observer/Observer.iml" filepath="$PROJECT_DIR$/Design-Comportamentale/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Popoiu_Daria_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/Popoiu_Daria_ActivitateCTS2025.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Creationale/PrototypeExamples/PrototypeExamples.iml" filepath="$PROJECT_DIR$/Creationale/PrototypeExamples/PrototypeExamples.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Structurale/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Structurale/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Creationale/PrototypeExamples/PrototypeExamples.iml" filepath="$PROJECT_DIR$/Design-Creationale/PrototypeExamples/PrototypeExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Structurale/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Design-Structurale/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10/Seminar10.iml" filepath="$PROJECT_DIR$/Seminar10/Seminar10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
@@ -34,29 +61,28 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar6/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6/Seminar6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar7/Seminar7.iml" filepath="$PROJECT_DIR$/Seminar7/Seminar7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/Seminar8.iml" filepath="$PROJECT_DIR$/Seminar8/Seminar8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Creationale/SingletonExamples/SingletonExamples.iml" filepath="$PROJECT_DIR$/Creationale/SingletonExamples/SingletonExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9/Seminar9.iml" filepath="$PROJECT_DIR$/Seminar9/Seminar9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Creationale/SingletonExamples/SingletonExamples.iml" filepath="$PROJECT_DIR$/Design-Creationale/SingletonExamples/SingletonExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/SingletonFactory/SingletonFactory.iml" filepath="$PROJECT_DIR$/Exercises/SingletonFactory/SingletonFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/SingletonFactory2/SingletonFactory2.iml" filepath="$PROJECT_DIR$/Exercises/SingletonFactory2/SingletonFactory2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Spital-a1/Spital-a1.iml" filepath="$PROJECT_DIR$/Seminar5/Spital-a1/Spital-a1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Spital-a3/Spital-a3.iml" filepath="$PROJECT_DIR$/Seminar5/Spital-a3/Spital-a3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Comportamentale/State/State.iml" filepath="$PROJECT_DIR$/Comportamentale/State/State.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Comportamentale/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Comportamentale/Strategy/Strategy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Structurale/Structurale.iml" filepath="$PROJECT_DIR$/Structurale/Structurale.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Comportamentale/Template/Template.iml" filepath="$PROJECT_DIR$/Comportamentale/Template/Template.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Creationale/FactoryExamples/b1-simple/b1-simple.iml" filepath="$PROJECT_DIR$/Creationale/FactoryExamples/b1-simple/b1-simple.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Creationale/BuilderExamples/b2-v1/b2-v1.iml" filepath="$PROJECT_DIR$/Creationale/BuilderExamples/b2-v1/b2-v1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Creationale/BuilderExamples/b2-v2/b2-v2.iml" filepath="$PROJECT_DIR$/Creationale/BuilderExamples/b2-v2/b2-v2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Creationale/FactoryExamples/b3-method/b3-method.iml" filepath="$PROJECT_DIR$/Creationale/FactoryExamples/b3-method/b3-method.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Creationale/PrototypeExamples/b4/b4.iml" filepath="$PROJECT_DIR$/Creationale/PrototypeExamples/b4/b4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Creationale/BuilderExamples/c-v1/c-v1.iml" filepath="$PROJECT_DIR$/Creationale/BuilderExamples/c-v1/c-v1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Creationale/BuilderExamples/c-v2/c-v2.iml" filepath="$PROJECT_DIR$/Creationale/BuilderExamples/c-v2/c-v2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Structurale/Adapter/deClase/deClase.iml" filepath="$PROJECT_DIR$/Structurale/Adapter/deClase/deClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Comportamentale/State/State.iml" filepath="$PROJECT_DIR$/Design-Comportamentale/State/State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Comportamentale/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Design-Comportamentale/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Comportamentale/Template/Template.iml" filepath="$PROJECT_DIR$/Design-Comportamentale/Template/Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pregatireTest/TemplateEx/TemplateEx.iml" filepath="$PROJECT_DIR$/pregatireTest/TemplateEx/TemplateEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Creationale/FactoryExamples/b1-simple/b1-simple.iml" filepath="$PROJECT_DIR$/Design-Creationale/FactoryExamples/b1-simple/b1-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Creationale/BuilderExamples/b2-v1/b2-v1.iml" filepath="$PROJECT_DIR$/Design-Creationale/BuilderExamples/b2-v1/b2-v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Creationale/BuilderExamples/b2-v2/b2-v2.iml" filepath="$PROJECT_DIR$/Design-Creationale/BuilderExamples/b2-v2/b2-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Creationale/FactoryExamples/b3-method/b3-method.iml" filepath="$PROJECT_DIR$/Design-Creationale/FactoryExamples/b3-method/b3-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Creationale/PrototypeExamples/b4/b4.iml" filepath="$PROJECT_DIR$/Design-Creationale/PrototypeExamples/b4/b4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Creationale/BuilderExamples/c-v1/c-v1.iml" filepath="$PROJECT_DIR$/Design-Creationale/BuilderExamples/c-v1/c-v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Creationale/BuilderExamples/c-v2/c-v2.iml" filepath="$PROJECT_DIR$/Design-Creationale/BuilderExamples/c-v2/c-v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar7/decorator/decorator.iml" filepath="$PROJECT_DIR$/Seminar7/decorator/decorator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Creationale/SingletonExamples/ex1/ex1.iml" filepath="$PROJECT_DIR$/Creationale/SingletonExamples/ex1/ex1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Creationale/FactoryExamples/exRestaurant/exRestaurant.iml" filepath="$PROJECT_DIR$/Creationale/FactoryExamples/exRestaurant/exRestaurant.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Creationale/SingletonExamples/exStudent/exStudent.iml" filepath="$PROJECT_DIR$/Creationale/SingletonExamples/exStudent/exStudent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Creationale/SingletonExamples/ex1/ex1.iml" filepath="$PROJECT_DIR$/Design-Creationale/SingletonExamples/ex1/ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Creationale/FactoryExamples/exRestaurant/exRestaurant.iml" filepath="$PROJECT_DIR$/Design-Creationale/FactoryExamples/exRestaurant/exRestaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Creationale/SingletonExamples/exStudent/exStudent.iml" filepath="$PROJECT_DIR$/Design-Creationale/SingletonExamples/exStudent/exStudent.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar7/facade/facade.iml" filepath="$PROJECT_DIR$/Seminar7/facade/facade.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Structurale/Adapter/obiecte/obiecte.iml" filepath="$PROJECT_DIR$/Structurale/Adapter/obiecte/obiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar7/proxy/proxy.iml" filepath="$PROJECT_DIR$/Seminar7/proxy/proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Spital-a1/v1/v1.iml" filepath="$PROJECT_DIR$/Seminar5/Spital-a1/v1/v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Spital-a1/v2/v2.iml" filepath="$PROJECT_DIR$/Seminar5/Spital-a1/v2/v2.iml" />
